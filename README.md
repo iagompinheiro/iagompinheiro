@@ -1,23 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&height=120&section=header"/>
+### Olá! Eu sou o Iago Pinheiro 🖐🏽
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2f2f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Iago;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-pinheiro-5a7979258/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iago.mpinheiro/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 
+![iagompinheiro  GitHub stats](https://github-readme-stats.vercel.app/api?username=iagompinheiro&show_icons=true&theme=dracula)
 
+## Tecnologias que eu utilizo
+<div style="display: inline_block"><br/>
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img align="center" alt="spring" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</div><br/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iagompinheiro&show_icons=true&count_private=true&hide_border=true&title_color=#d9d9d9
-&icon_color=CD5C5C&text_color=c9d1d9&bg_color=d9d9d9" alt="Iago Pinheiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagompinheiro&layout=compact&hide_border=true&title_color=d9d9d9&text_color=ADD8E6&bg_color=0d1117" />
-</div>
-
-<div align="center"> 
-<a href="https://instagram.com/iago.mpinheiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/iago-pinheiro-5a7979258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+Tenho uma forte paixão pela tecnologia e tomei a decisão de buscar minha graduação em Ciência da Computação, com o objetivo de aprofundar meu conhecimento nessa área. Atualmente tenho concentrado meu esforço no desenvolvimento de software com ênfase no BackEnd.
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f2f2f2&height=120&section=footer"/>
+
+
