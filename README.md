@@ -5,7 +5,7 @@
   <a href = "mailtoiagomarcelinop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![iagompinheiro  GitHub stats](https://github-readme-stats.vercel.app/api?username=iagompinheiro&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagompinheiro&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagompinheiro&hide_progress=true&theme=dracula)
 
 ## Tecnologias que eu utilizo
 <div style="display: inline_block"><br/>
